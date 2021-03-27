@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade">
+<name>JS Meta Tags</name>
+<author>Projetando Web</author>
+<creationDate>13 março de 2019</creationDate>
+<copyright>Copyright (C) 2018 Projetando Web. All rights reserved.</copyright>
+<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+<authorEmail>administrativo@projetandoweb.com.br</authorEmail>
+<authorUrl>projetandoweb.com.br</authorUrl>
+<version>1.0.0</version>
+<description>Plugin gerador de Meta tags Open Graph</description>
+<files>
+    <filename plugin="jsmetatags">jsmetatags.php</filename>
+    <filename plugin="jsmetatags">index.html</filename>
+</files>
+</extension>
